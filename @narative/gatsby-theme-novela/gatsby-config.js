@@ -5,7 +5,6 @@ module.exports = ({
   contentPosts = 'content/posts',
   pathPrefix = '',
   sources: { local, contentful } = { local: true, contentful: false },
-  oembedProviders = [],
 }) => ({
   pathPrefix,
   mapping: {
@@ -215,7 +214,7 @@ module.exports = ({
             resolve: `@raae/gatsby-remark-oembed`,
             options: {
               providers: {
-                include: oembedProviders,
+                include: ['Instagram'],
               },
             },
           },
