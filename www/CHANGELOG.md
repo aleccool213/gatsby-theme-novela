@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.8](https://github.com/aleccool213/gatsby-theme-novela/compare/www@1.3.7...www@1.3.8) (2020-01-22)
+
+
+### Bug Fixes
+
+* Fix build by changing source to local for www ([9de7d0f](https://github.com/aleccool213/gatsby-theme-novela/commit/9de7d0feb7aedb6105a308b12141b76aef4cf577))
+* remove gatsby-source-contentful to get build working ([2280cb3](https://github.com/aleccool213/gatsby-theme-novela/commit/2280cb3d3a27f39f1ab8aabfe6fde7eb1b6a5f5a))
+* **contentful:** source works now without local ([3299592](https://github.com/aleccool213/gatsby-theme-novela/commit/329959220705c095ba6ce7798a3779e022bb56d6))
+
+
+
+
+
 ## [1.3.7](https://github.com/narative/gatsby-theme-novela/compare/www@1.3.6...www@1.3.7) (2020-01-08)
 
 **Note:** Version bump only for package www
