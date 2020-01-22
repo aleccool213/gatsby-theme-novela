@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.15.1](https://github.com/narative/gatsby-theme-novela/compare/@alec.brunelle/gatsby-theme-novela@0.15.0...@alec.brunelle/gatsby-theme-novela@0.15.1) (2020-01-22)
+
+
+### Bug Fixes
+
+* make navigation header work with new package name ([8350bda](https://github.com/narative/gatsby-theme-novela/commit/8350bda93b8f0f4eaddf8977ba62ae649d0596c7))
+
+
+
+
+
 # 0.15.0 (2020-01-22)
 
 
