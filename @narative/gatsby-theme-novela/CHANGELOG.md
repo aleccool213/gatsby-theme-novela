@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.15.2](https://github.com/narative/gatsby-theme-novela/compare/@alec.brunelle/gatsby-theme-novela@0.15.1...@alec.brunelle/gatsby-theme-novela@0.15.2) (2020-01-22)
+
+
+### Bug Fixes
+
+* hardcode ombed provider for the time being ([496bb12](https://github.com/narative/gatsby-theme-novela/commit/496bb12f2cb40bdd494c5d2ae6c9670840185294))
+
+
+
+
+
 ## [0.15.1](https://github.com/narative/gatsby-theme-novela/compare/@alec.brunelle/gatsby-theme-novela@0.15.0...@alec.brunelle/gatsby-theme-novela@0.15.1) (2020-01-22)
 
 
