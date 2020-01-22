@@ -5,6 +5,7 @@ module.exports = ({
   contentPosts = 'content/posts',
   pathPrefix = '',
   sources: { local, contentful } = { local: true, contentful: false },
+  oembedProviders = [],
 }) => ({
   pathPrefix,
   mapping: {
@@ -208,6 +209,21 @@ module.exports = ({
             options: {
               target: '_blank',
               rel: 'noreferrer', // eslint-disable-line unicorn/prevent-abbreviations
+            },
+          },
+          {
+            resolve: `@raae/gatsby-remark-oembed`,
+            options: {
+              providers: {
+                include: oembedProviders,
+              },
+            },
+          },
+          {
+            resolve: 'gatsby-remark-embed-video',
+            options: {
+              width: 800,
+              noIframeBorder: true, //Optional: Disable insertion of <style> border: 0
             },
           },
         ],
