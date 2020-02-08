@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.13.3 (2020-02-08)
+
+
+### Bug Fixes
+
+* **name-change:** fix naming of old packages ([a5e192d](https://github.com/aleccool213/gatsby-theme-novela/commit/a5e192ded75e148ec216ffa4590ed0c4c598706e))
+
+
+
+
+
 ## 0.13.2 (2020-02-08)
 
 
