@@ -4,6 +4,7 @@ on:
   push:
     branches:
     - master
+    - publish-newest
 
 jobs:
   Publish_Workflow:
@@ -14,8 +15,8 @@ jobs:
       uses: actions/checkout@v1.0.0
     - name: Git Identity
       run: |
-        git config --global user.name '@jpvalery'
-        git config --global user.email 'jpvalery@users.noreply.github.com'
+        git config --global user.name '@aleccol213'
+        git config --global user.email 'aleccool213@users.noreply.github.com'
         git remote set-url origin https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -30,7 +31,7 @@ jobs:
     - name: Authenticate with Registry
       run: |
           yarn logout
-          echo "@narative/gatsby-theme-novela:registry=http://registry.npmjs.org/" > .npmrc
+          echo "@alec.brunelle/gatsby-theme-novela:registry=http://registry.npmjs.org/" > .npmrc
           echo "registry=http://registry.npmjs.org/" >> .npmrc
           echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" >> .npmrc
           npm whoami
