@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.13.4](https://github.com/aleccool213/gatsby-theme-novela/compare/@alec.brunelle/gatsby-theme-novela@0.13.3...@alec.brunelle/gatsby-theme-novela@0.13.4) (2020-02-16)
+
+
+### Bug Fixes
+
+* **canonical:** Fix canonical url support ([aa6564f](https://github.com/aleccool213/gatsby-theme-novela/commit/aa6564fa92462b9e694c889b8c506644cc2805a5))
+
+
+### Reverts
+
+* **medium-zoom:** upgrade of medium-zoon ([0a6b8cf](https://github.com/aleccool213/gatsby-theme-novela/commit/0a6b8cf4ec07fc0e1ea98d4cdc5bbc41f667575f))
+
+
+
+
+
 ## 0.13.3 (2020-02-08)
 
 

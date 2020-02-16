@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.1](https://github.com/aleccool213/gatsby-theme-novela/compare/www@1.5.0...www@1.5.1) (2020-02-16)
+
+
+### Bug Fixes
+
+* remove contentful ([0d47db6](https://github.com/aleccool213/gatsby-theme-novela/commit/0d47db6e8373d2a64467838587d9111460333125))
+
+
+
+
+
 # [1.5.0](https://github.com/aleccool213/gatsby-theme-novela/compare/www@1.3.7...www@1.5.0) (2020-02-08)
 
 
