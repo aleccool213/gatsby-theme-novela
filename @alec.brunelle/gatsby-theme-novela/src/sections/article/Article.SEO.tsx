@@ -86,7 +86,7 @@ const ArticleSEO: React.FC<ArticleSEOProps> = ({
       timeToRead={article.timeToRead}
       published={article.date}
       pathname={location.href}
-      canonicalUrl={article.canonicalUrl}
+      canonicalUrl={article.canonical_url}
     >
       <script type="application/ld+json">{microdata}</script>
     </SEO>
