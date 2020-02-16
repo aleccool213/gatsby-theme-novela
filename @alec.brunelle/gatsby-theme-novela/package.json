@@ -2,7 +2,7 @@
   "name": "@alec.brunelle/gatsby-theme-novela",
   "author": "dennis@narative.co",
   "repository": "https://github.com/aleccool213/gatsby-theme-novela",
-  "version": "0.13.3",
+  "version": "0.13.4",
   "main": "index.js",
   "license": "MIT",
   "keywords": [
