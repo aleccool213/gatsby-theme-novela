@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.13.5](https://github.com/aleccool213/gatsby-theme-novela/compare/@alec.brunelle/gatsby-theme-novela@0.13.4...@alec.brunelle/gatsby-theme-novela@0.13.5) (2020-02-16)
+
+
+### Bug Fixes
+
+* update dev packages ([337fcb2](https://github.com/aleccool213/gatsby-theme-novela/commit/337fcb2c298dc782e227c84615f41e508f69916c))
+
+
+
+
+
 ## [0.13.4](https://github.com/aleccool213/gatsby-theme-novela/compare/@alec.brunelle/gatsby-theme-novela@0.13.3...@alec.brunelle/gatsby-theme-novela@0.13.4) (2020-02-16)
 
 
