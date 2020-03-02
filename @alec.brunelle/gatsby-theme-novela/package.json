@@ -1,8 +1,8 @@
 {
-  "name": "@narative/gatsby-theme-novela",
+  "name": "@alec.brunelle/gatsby-theme-novela",
   "author": "dennis@narative.co",
-  "repository": "https://github.com/narative/gatsby-theme-novela",
-  "version": "0.13.1",
+  "repository": "https://github.com/aleccool213/gatsby-theme-novela",
+  "version": "0.13.5",
   "main": "index.js",
   "license": "MIT",
   "keywords": [
@@ -73,7 +73,7 @@
     "prism-react-renderer": "^0.1.7",
     "react-helmet": "^5.2.1",
     "react-live": "^2.2.0",
-    "react-medium-image-zoom": "^4.0.2",
+    "react-medium-image-zoom": "^3.1.1",
     "react-outside-click-handler": "^1.2.4",
     "remark-slug": "^5.1.2",
     "request": "^2.88.0",

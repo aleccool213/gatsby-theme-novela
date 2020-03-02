@@ -3,6 +3,55 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.13.5](https://github.com/aleccool213/gatsby-theme-novela/compare/@alec.brunelle/gatsby-theme-novela@0.13.4...@alec.brunelle/gatsby-theme-novela@0.13.5) (2020-02-16)
+
+
+### Bug Fixes
+
+* update dev packages ([337fcb2](https://github.com/aleccool213/gatsby-theme-novela/commit/337fcb2c298dc782e227c84615f41e508f69916c))
+
+
+
+
+
+## [0.13.4](https://github.com/aleccool213/gatsby-theme-novela/compare/@alec.brunelle/gatsby-theme-novela@0.13.3...@alec.brunelle/gatsby-theme-novela@0.13.4) (2020-02-16)
+
+
+### Bug Fixes
+
+* **canonical:** Fix canonical url support ([aa6564f](https://github.com/aleccool213/gatsby-theme-novela/commit/aa6564fa92462b9e694c889b8c506644cc2805a5))
+
+
+### Reverts
+
+* **medium-zoom:** upgrade of medium-zoon ([0a6b8cf](https://github.com/aleccool213/gatsby-theme-novela/commit/0a6b8cf4ec07fc0e1ea98d4cdc5bbc41f667575f))
+
+
+
+
+
+## 0.13.3 (2020-02-08)
+
+
+### Bug Fixes
+
+* **name-change:** fix naming of old packages ([a5e192d](https://github.com/aleccool213/gatsby-theme-novela/commit/a5e192ded75e148ec216ffa4590ed0c4c598706e))
+
+
+
+
+
+## 0.13.2 (2020-02-08)
+
+
+### Bug Fixes
+
+* **name-change:** fix naming of old packages ([a5e192d](https://github.com/aleccool213/gatsby-theme-novela/commit/a5e192ded75e148ec216ffa4590ed0c4c598706e))
+
+
+
+
+
 ## [0.13.1](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.13.0...@narative/gatsby-theme-novela@0.13.1) (2020-01-08)
 
 

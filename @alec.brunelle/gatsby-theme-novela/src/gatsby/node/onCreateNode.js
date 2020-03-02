@@ -3,6 +3,10 @@
 const crypto = require(`crypto`);
 const slugify = require('slugify');
 
+function generateSlug(...arguments_) {
+  return `/${arguments_.join('/')}`.replace(/\/\/+/g, '/');
+}
+
 // Create fields for post slugs and source
 // This will change with schema customization with work
 module.exports = ({ node, actions, getNode, createNodeId }, themeOptions) => {
@@ -26,8 +30,8 @@ module.exports = ({ node, actions, getNode, createNodeId }, themeOptions) => {
       slug,
     };
 
-    const permalink = articlePermalinkFormat.replace(/(:[a-z_]+)/g, match => {
-      const key = match.substr(1);
+    const permalink = articlePermalinkFormat.replace(/(:[_a-z]+)/g, match => {
+      const key = match.slice(1);
       if (permalinkData.hasOwnProperty(key)) {
         return permalinkData[key];
       }
@@ -39,10 +43,6 @@ module.exports = ({ node, actions, getNode, createNodeId }, themeOptions) => {
     });
 
     return permalink;
-  }
-
-  function generateSlug(...arguments_) {
-    return `/${arguments_.join('/')}`.replace(/\/\/+/g, '/');
   }
 
   // ///////////////////////////////////////////////////////
