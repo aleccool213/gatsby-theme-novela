@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.13.6](https://github.com/aleccool213/gatsby-theme-novela/compare/@alec.brunelle/gatsby-theme-novela@0.13.5...@alec.brunelle/gatsby-theme-novela@0.13.6) (2020-03-02)
+
+
+### Bug Fixes
+
+* **plugin:** remove unused instagram ombed ([eeefc31](https://github.com/aleccool213/gatsby-theme-novela/commit/eeefc31895ab5f36691a5bb74cd1d4064544d9ed))
+
+
+
+
+
 ## [0.13.5](https://github.com/aleccool213/gatsby-theme-novela/compare/@alec.brunelle/gatsby-theme-novela@0.13.4...@alec.brunelle/gatsby-theme-novela@0.13.5) (2020-02-16)
 
 
