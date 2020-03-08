@@ -40,6 +40,7 @@
     "@emotion/styled": "^10.0.14",
     "@mdx-js/mdx": "^1.1.0",
     "@mdx-js/react": "^1.0.27",
+    "@narative/gatsby-theme-novela": "^0.13.3",
     "@raae/gatsby-remark-oembed": "^0.1.1",
     "adm-zip": "^0.4.13",
     "babel-plugin-emotion": "^10.0.14",
