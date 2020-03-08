@@ -7881,6 +7881,16 @@ gatsby-remark-typescript@^0.0.12:
     prettier "^1.18.2"
     unist-util-visit "^1.4.1"
 
+gatsby-remark-typescript@^0.2.0:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-typescript/-/gatsby-remark-typescript-0.2.2.tgz#d4d61fcc5fe0e5013bf9353c294c7997045ffc01"
+  integrity sha512-Rz7eNWPXGvreTyn8TM6jEYBVhEycl0pGBMyrtUvuTbwVzFdQDvlz5kyU20PuspBt8xAGcbl8rIUNiFwjmYp+RA==
+  dependencies:
+    "@babel/core" "^7.5.5"
+    "@babel/preset-typescript" "^7.3.3"
+    prettier "^1.18.2"
+    unist-util-visit "^1.4.1"
+
 gatsby-source-filesystem@^2.1.6, gatsby-source-filesystem@^2.1.9:
   version "2.1.43"
   resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-2.1.43.tgz#02652b41fcdd8999b2b2107edecdec8703273620"
