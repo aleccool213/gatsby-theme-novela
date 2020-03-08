@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/aleccool213/gatsby-theme-novela/compare/www@1.3.7...www@1.6.0) (2020-03-08)
+
+
+### Bug Fixes
+
+* remove contentful ([ca9674f](https://github.com/aleccool213/gatsby-theme-novela/commit/ca9674fa8e4e3df72bdd1c09be0d18486d8bc29b))
+* **contentful:** Do not build www when publishing ([34c765c](https://github.com/aleccool213/gatsby-theme-novela/commit/34c765ccb23b5231cf0f791a5fe77a0bc3ff42d0))
+* Fix build by changing source to local for www ([9de7d0f](https://github.com/aleccool213/gatsby-theme-novela/commit/9de7d0feb7aedb6105a308b12141b76aef4cf577))
+* **contentful:** source works now without local ([3299592](https://github.com/aleccool213/gatsby-theme-novela/commit/329959220705c095ba6ce7798a3779e022bb56d6))
+
+
+### Features
+
+* **blog:** add TripAdvisor in social links ([a55be90](https://github.com/aleccool213/gatsby-theme-novela/commit/a55be901114096f3ec59c90df07760919de9f7b6))
+* Adds canonical_url support for articles ([4e2b438](https://github.com/aleccool213/gatsby-theme-novela/commit/4e2b438a0a1c99016e36c1ff85ad4ae7eb5f1033))
+
+
+
+
+
 ## [1.5.1](https://github.com/aleccool213/gatsby-theme-novela/compare/www@1.5.0...www@1.5.1) (2020-02-16)
 
 

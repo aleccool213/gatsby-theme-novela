@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.13.7 (2020-03-08)
+
+
+### Bug Fixes
+
+* **plugin:** remove unused instagram ombed ([4ffff68](https://github.com/aleccool213/gatsby-theme-novela/commit/4ffff6804975be268acffcaa54fc1defac467e45))
+* update dev packages ([4551f17](https://github.com/aleccool213/gatsby-theme-novela/commit/4551f170eb4fb5db102ccce3c987fa48266ac15b))
+* **canonical:** Fix canonical url support ([ce8ce81](https://github.com/aleccool213/gatsby-theme-novela/commit/ce8ce810c791141d0af798314557ae2d1978f14a))
+* **name-change:** fix naming of old packages ([f1b0c2c](https://github.com/aleccool213/gatsby-theme-novela/commit/f1b0c2c4bd795b3573f66fd949acd66519700870))
+
+
+### Reverts
+
+* **medium-zoom:** upgrade of medium-zoon ([7a77e48](https://github.com/aleccool213/gatsby-theme-novela/commit/7a77e4867481a540aba26b15332ca1faaccff1dd))
+
+
+
+
+
 ## [0.13.6](https://github.com/aleccool213/gatsby-theme-novela/compare/@alec.brunelle/gatsby-theme-novela@0.13.5...@alec.brunelle/gatsby-theme-novela@0.13.6) (2020-03-02)
 
 
