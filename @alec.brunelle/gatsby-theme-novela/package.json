@@ -1,6 +1,6 @@
 {
   "name": "@alec.brunelle/gatsby-theme-novela",
-  "author": "dennis@narative.co",
+  "author": "alec@alec.coffee",
   "repository": "https://github.com/aleccool213/gatsby-theme-novela",
   "version": "0.13.7",
   "main": "index.js",
@@ -40,7 +40,7 @@
     "@emotion/styled": "^10.0.14",
     "@mdx-js/mdx": "^1.1.0",
     "@mdx-js/react": "^1.0.27",
-    "@narative/gatsby-theme-novela": "^0.13.3",
+    "@alec.brunelle/gatsby-theme-novela": "^0.13.7",
     "@raae/gatsby-remark-oembed": "^0.1.1",
     "adm-zip": "^0.4.13",
     "babel-plugin-emotion": "^10.0.14",

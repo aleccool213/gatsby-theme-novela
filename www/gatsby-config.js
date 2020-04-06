@@ -37,16 +37,13 @@ const siteMetadata = {
     },
     {
       url: `https://digitalocean.com`,
-    },
-    {
-      url: `https://tripadvisor.com`,
-    },
+    }
   ],
 };
 
 const plugins = [
   {
-    resolve: "@narative/gatsby-theme-novela",
+    resolve: "@alec.brunelle/gatsby-theme-novela",
     options: {
       contentPosts: "content/posts",
       contentAuthors: "content/authors",
