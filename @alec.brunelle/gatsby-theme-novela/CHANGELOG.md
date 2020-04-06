@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.13.8](https://github.com/aleccool213/gatsby-theme-novela/compare/@alec.brunelle/gatsby-theme-novela@0.13.7...@alec.brunelle/gatsby-theme-novela@0.13.8) (2020-04-06)
+
+
+### Bug Fixes
+
+* Replace some [@narative](https://github.com/narative) imports ([9d9688a](https://github.com/aleccool213/gatsby-theme-novela/commit/9d9688a7fb1d2a51cf9d8fd47482ade4ad81401d))
+
+
+
+
+
 ## 0.13.7 (2020-03-08)
 
 
